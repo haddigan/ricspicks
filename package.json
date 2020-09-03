@@ -20,6 +20,7 @@
   "homepage": "https://github.com/haddigan/ricspicks#readme",
   "dependencies": {
     "gatsby": "^2.24.53",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
