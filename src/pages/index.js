@@ -2,7 +2,7 @@ import React from 'react'
 import EricImage from '../../images/x.png'
 import DerbyPicks from '../../images/IMG_0162.png'
 import EricWin from '../../images/IMG_0163.png'
-import Stakes from '../../images/c.PNG'
+import Stakes from '../../images/c.png'
 
 export default () => (
   <div style={{ maxWidth: '100%', fontFamily: 'Grandstander' }}>
