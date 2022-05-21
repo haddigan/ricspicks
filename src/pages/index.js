@@ -7,6 +7,8 @@ import EricCowboyHat from '../../images/bighat.jpg'
 import Derby from '../../images/derby.png'
 import Derby22 from '../../images/22-derby.png'
 import CrazyFace from '../../images/unnamed.jpg'
+import Preakness from '../../images/preakness.png'
+import RunningHorse from '../../images/animated-horse-gif-11.gif'
 
 export default () => (
   <div
@@ -20,6 +22,8 @@ export default () => (
       Ric's Picks
     </h1>
     <div>
+      <img style={{ maxWidth: '100%', width: 'auto' }} src={Preakness} />
+      <img style={{ maxWidth: '100%', width: 'auto' }} src={RunningHorse} />
       <img style={{ maxWidth: '100%', width: 'auto' }} src={Derby22} />
       <img style={{ maxWidth: '100%', width: 'auto' }} src={CrazyFace} />
       <img
