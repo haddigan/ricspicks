@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 export default function Password({ children }) {
-  const [locked, setLocked] = useState(true)
+  const [locked, setLocked] = useState(false)
 
   const handleSubmit = (e) => {
     e.preventDefault()
