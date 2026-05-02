@@ -14,6 +14,7 @@ import Derby23_1 from '../../images/Derby2023.png'
 import Derby23_2 from '../../images/Derby2023-2.png'
 import Derby_24 from '../../images/IMG_6177.jpg'
 import Derby_25 from '../../images/IMG_1868.jpeg'
+import Derby_26 from '../../images/IMG_1528.jpeg'
 
 export default () => (
   <div
@@ -35,6 +36,34 @@ export default () => (
       Ric's Picks
     </h1>
     <div>
+        <div
+        style={{ width: '100%', color: 'white', background: 'darkslategray' }}
+      >
+        <p style={{ maxWidth: '100%', width: 'auto' }}>
+          <img
+            style={{ maxWidth: '100%', width: 'auto' }}
+            src={Derby_26}
+            alt="Kentucky Derby 20202026"
+          />
+        </p>
+        <div style={{ padding: '24px', fontSize: '28px' }}>
+          <p>
+              Good morning fellow race nuts. After diligently studying the horses for today’s big race. Here are my thoughts
+<br /><br />
+Renegade comes in as the favorite, with a Jockey Ortiz that is 0 for 9 in the derby. I don’t think I’m gonna fuck with him. I hate favorites, theyre for normies
+<br /><br />
+Big Dick Bob Baffert has two horsies running today but both have struggled recently and Litmus Test has gone through like 6 jockeys, so I don’t know but I think Bob fell off. 
+<br /><br />
+Who do we like? Got my eye on “So Happy”, he just came off a victory in the Santa Anita Derby, where he won pretty convincingly. Really liked his stride on the finish. They call his jockey Mike Smith, "Money Mike". I like him I like money. Hes been in the game a longgg time too. He’s my certified RICPICK of the day.
+<br /><br />
+"The Puma" interests me a bit, there was some buzz about Taylor swift owning this horse but I think that was fake news. This horse did just come off a pretty gutsy win in the Florida derby in March. I like him for a 2nd place finish.
+<br /><br />
+I usually don’t fuck with long shots, but can’t pass up Great White, dope name, Grey horse, I like him. 
+<br /><br />
+Do what you want with this info. I wish I could parlay a horse with the flyers/martone anytime goal/sixers/embiid first bucket/Denny Hamlin. Good luck losers!
+          </p>
+        </div>
+      </div>
       <div
         style={{ width: '100%', color: 'white', background: 'darkslategray' }}
       >
